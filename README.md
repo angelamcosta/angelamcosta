@@ -4,8 +4,8 @@
 
   <div align="center">
   
-  <h2 align=left>Finished 42 projects</h2>
+  <h2 align=center>Finished 42 projects</h2>
   
-   <a href="https://github.com/angelamcosta/libft" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/libfte.png"></a> <a href="https://github.com/angelamcosta/printf" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/ft_printfe.png"></a> <a href="https://github.com/angelamcosta/get_next_line" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/get_next_linem.png"></a>
+   <a href="https://github.com/angelamcosta/libft" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/libfte.png"></a> <a href="https://github.com/angelamcosta/printf" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/ft_printfe.png"></a> <a href="https://github.com/angelamcosta/get_next_line" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/get_next_linem.png"></a> <a href="https://github.com/angelamcosta/born2beroot" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/born2beroote.png"></a>
   </div>
 </div>
