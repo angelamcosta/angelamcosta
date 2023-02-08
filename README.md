@@ -12,6 +12,6 @@
   
   <h2 align=center>Ongoing 42 projects</h2>
   
-   <a href="https://github.com/angelamcosta/pipex" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/pipexe.png"></a> <a href="https://github.com/angelamcosta/minitalk" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/minitalke.png"></a> 
+   <a href="https://github.com/angelamcosta/pipex" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/pipexe.png"></a> <a href="https://github.com/angelamcosta/minitalk" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/minitalke.png"></a> <a href="https://github.com/angelamcosta/so_long" target="_blank"><img src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/so_longe.png"></a>
   </div>
 </div>
