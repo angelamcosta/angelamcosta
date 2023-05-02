@@ -26,6 +26,13 @@ Here are a few 42 common core projects I've worked on recently:
 
 I'm currently learning C and Node.js, and I'm excited to incorporate my newfound knowledge into my future projects!
 
+#### ⌨️ WakaTime Metrics
+
+<div align="center">
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</div>
+
 #### 📫 Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamcostalima/) or contact me via [email](mailto:angelamcostalima@icloud.com).
