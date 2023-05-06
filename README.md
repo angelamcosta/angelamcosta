@@ -32,19 +32,20 @@ I'm currently learning C and Node.js, and I'm excited to incorporate my newfound
   <!--START_SECTION:waka-->
 
 ```text
-From: 13 October 2022 - To: 03 May 2023
+From: 13 October 2022 - To: 04 May 2023
 
-Total Time: 178 hrs 13 mins
+Total Time: 180 hrs 6 mins
 
-C             123 hrs 31 mins >>>>>>>>>>>>>>>>>--------   69.30 %
-JavaScript    17 hrs 16 mins  >>-----------------------   09.69 %
-Makefile      12 hrs 27 mins  >>-----------------------   06.99 %
-EJS           6 hrs 35 mins   >------------------------   03.70 %
-Markdown      3 hrs 38 mins   >------------------------   02.05 %
-HTML          3 hrs 23 mins   -------------------------   01.90 %
-C++           2 hrs 37 mins   -------------------------   01.47 %
-Bash          2 hrs 15 mins   -------------------------   01.27 %
-Other         1 hr 56 mins    -------------------------   01.09 %
+C             125 hrs 9 mins  >>>>>>>>>>>>>>>>>--------   69.49 %
+JavaScript    17 hrs 16 mins  >>-----------------------   09.59 %
+Makefile      12 hrs 29 mins  >>-----------------------   06.93 %
+EJS           6 hrs 35 mins   >------------------------   03.66 %
+Markdown      3 hrs 38 mins   >------------------------   02.02 %
+HTML          3 hrs 23 mins   -------------------------   01.88 %
+C++           2 hrs 37 mins   -------------------------   01.46 %
+Bash          2 hrs 15 mins   -------------------------   01.26 %
+Other         1 hr 56 mins    -------------------------   01.08 %
+JSON          1 hr 39 mins    -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
