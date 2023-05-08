@@ -37,14 +37,6 @@ Markdown     33 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
-#### ⚡ Recent Activity
-
-<div align="center">
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-</div>
-
 #### 📫 Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamcostalima/) or contact me via [email](mailto:angelamcostalima@icloud.com).
