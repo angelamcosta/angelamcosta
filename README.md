@@ -27,20 +27,11 @@ Here are a few 42 common core projects I've worked on recently:
   <!--START_SECTION:waka-->
 
 ```text
-From: 13 October 2022 - To: 06 May 2023
-
-Total Time: 182 hrs 7 mins
-
-C             125 hrs 9 mins  >>>>>>>>>>>>>>>>>--------   68.72 %
-JavaScript    18 hrs 15 mins  >>>----------------------   10.03 %
-Makefile      12 hrs 29 mins  >>-----------------------   06.86 %
-EJS           6 hrs 35 mins   >------------------------   03.62 %
-Markdown      3 hrs 38 mins   >------------------------   02.00 %
-HTML          3 hrs 34 mins   -------------------------   01.97 %
-C++           2 hrs 37 mins   -------------------------   01.44 %
-Bash          2 hrs 15 mins   -------------------------   01.24 %
-Other         1 hr 56 mins    -------------------------   01.07 %
-JSON          1 hr 39 mins    -------------------------   00.91 %
+JavaScript   4 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   38.44 %
+C            2 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.69 %
+JSON         1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Python       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+Markdown     33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
 ```
 
 <!--END_SECTION:waka-->
