@@ -9,14 +9,6 @@ Here are a few 42 common core projects I've worked on recently:
 - <a href="https://github.com/angelamcosta/push_swap" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/push_swape.png"> Push_swap</a> - The aim of this project is to sort data on a stack, with a limited set of instructions, using the lowest possible number of actions.
 - <a href="https://github.com/angelamcosta/philosophers" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/philosopherse.png"> Philosophers</a> - The aim of this project is to learn the basics of threading a process by learning how to create threads and discovering about mutexes.
 
-#### 🚀 42 Lisboa stats
-
-<div align="center">
-
-  [![anlima's 42 stats](https://badge42.vercel.app/api/v2/cl9oe5ogt00110fm6h34z9iu9/stats?cursusId=21&coalitionId=288)](https://github.com/JaeSeoKim/badge42)
-  
-</div>
-
 #### 🌱 Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=c,nodejs,ts)](https://skillicons.dev)
