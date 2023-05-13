@@ -11,7 +11,7 @@ Here are a few 42 common core projects I've worked on recently:
 
 #### 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,nodejs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,nodejs,ts,rust,golang)](https://skillicons.dev)
 
 #### 📊 Weekly development breakdown
 
