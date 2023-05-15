@@ -19,11 +19,11 @@ Here are a few 42 common core projects I've worked on recently:
   <!--START_SECTION:waka-->
 
 ```text
-C            9 hrs 29 mins   ████████████████▓░░░░░░░░   67.00 %
-JavaScript   1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Rust         52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-TypeScript   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Go           30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+C            9 hrs 29 mins   ██████████████████░░░░░░░   71.80 %
+JavaScript   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+Rust         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+TypeScript   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Go           24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
