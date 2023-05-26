@@ -16,7 +16,7 @@ And here are the projects I'm currently working on:
 
 #### 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,nodejs,ts,rust,golang)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,ts,golang,cpp,nodejs&theme=dark)](https://skillicons.dev)
 
 #### 📊 Weekly development breakdown
 
