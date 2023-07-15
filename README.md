@@ -23,14 +23,12 @@ And here are the projects I'm currently working on:
   <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2023 - To: 12 July 2023
+From: 06 July 2023 - To: 13 July 2023
 
-Total Time: 3 hrs 23 mins
+Total Time: 2 hrs 49 mins
 
-C          2 hrs 55 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   86.26 %
-Makefile   25 mins         ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.53 %
-Text       1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.66 %
-Other      1 min           ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.54 %
+C          2 hrs 22 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.97 %
+Makefile   27 mins         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.03 %
 ```
 
 <!--END_SECTION:waka-->
