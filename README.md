@@ -17,22 +17,6 @@ And here are the projects I'm currently working on:
 
 [![My Skills](https://skillicons.dev/icons?i=rust,c,ts,golang,cpp,nodejs&theme=dark)](https://skillicons.dev)
 
-#### 📊 Weekly development breakdown
-
-<div align="center">
-  <!--START_SECTION:waka-->
-
-```txt
-From: 15 July 2023 - To: 22 July 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</div>
-
 #### 📫 Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamcostalima/) or contact me via [email](mailto:angelamcostalima@icloud.com).
