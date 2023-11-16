@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
 
 I'm Angela Lima, a student at [42 Lisboa](https://www.42lisboa.com/) currently pursuing my studies in software engineering. I'm passionate about learning and some of my hobbies include gaming, programming, futurism, astronomy and philosophy.
 
-#### 🧑‍💻 42 Projects
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Woman Technologist Medium Skin Tone" width="25" height="25" /> 42 Projects
 
 Here are a few 42 common core projects I've worked on recently: 
 - <a href="https://github.com/angelamcosta/philosophers" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/philosophersm.png"> Philosophers</a> - The aim of this project is to learn the basics of threading a process by learning how to create threads and discovering about mutexes.
@@ -14,10 +14,10 @@ And here are the projects I'm currently working on:
 - <a href="https://github.com/angelamcosta/cub3d" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cub3dn.png"> cub3d</a> - My first RayCaster with miniLibX.
 - <a href="https://github.com/angelamcosta/net_practice" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/netpracticen.png"> NetPractice</a> - A System Administration related exercise.
 
-#### 🌱 Currently Learning
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently Learning
 
 [![My Skills](https://skillicons.dev/icons?i=rust,c,ts,golang,cpp,nodejs&theme=dark)](https://skillicons.dev)
 
-#### 📫 Get in Touch
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamcostalima/) or contact me via [email](mailto:angelamcostalima@icloud.com).
