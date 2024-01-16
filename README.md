@@ -11,7 +11,8 @@ Here are a few 42 common core projects I've worked on recently:
 
 And here are the projects I'm currently working on:
 
-- <a href="https://github.com/angelamcosta/cub3d" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cub3dn.png"> cub3d</a> - My first RayCaster with miniLibX.
+- <a href="https://github.com/angelamcosta/cub3d" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cub3de.png"> cub3d</a> - My first RayCaster with miniLibX.
+- <a href="https://github.com/angelamcosta/inception" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/inceptionn.png"> Inception</a> - A System Administration related exercise.
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently Learning
 
