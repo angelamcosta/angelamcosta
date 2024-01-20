@@ -7,7 +7,7 @@ I'm Angela Lima, a student at [42 Lisboa](https://www.42lisboa.com/) currently p
 Here are a few 42 common core projects I've worked on recently: 
 - <a href="https://github.com/angelamcosta/minishell" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/minishellm.png"> Minishell</a> - This project aims to replicate basic functionalities of a Unix shell, such as command execution, I/O redirection, piping, and handling of environment variables.
 - <a href="https://github.com/angelamcosta/cpp" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cppm.png"> CPP Modules 00-04</a> - This repository contains a collection of C++ exercises aimed at improving your understanding and skills in C++ programming.
-- <a href="https://github.com/angelamcosta/cub3d" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cub3de.png"> cub3d</a> - My first RayCaster with miniLibX.
+- <a href="https://github.com/angelamcosta/cub3d" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cub3dm.png"> cub3d</a> - My first RayCaster with miniLibX.
 
 And here are the projects I'm currently working on:
 
