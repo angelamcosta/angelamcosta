@@ -26,12 +26,16 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 12 February 2024
+From: 07 February 2024 - To: 13 February 2024
 
-Total Time: 31 mins
+Total Time: 3 hrs 14 mins
 
-C++        31 mins         █████████████████████████   99.74 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Bash       1 hr 27 mins    ███████████▒░░░░░░░░░░░░░   45.27 %
+Docker     40 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Other      32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
+C++        31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+YAML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
