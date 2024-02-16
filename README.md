@@ -15,7 +15,7 @@ And here are the projects I'm currently working on:
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,golang,cpp,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,golang,docker,cpp,nodejs,bash&theme=dark)](https://skillicons.dev)
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Get in Touch
 
