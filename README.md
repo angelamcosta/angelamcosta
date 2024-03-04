@@ -26,17 +26,17 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2024 - To: 02 March 2024
+From: 26 February 2024 - To: 03 March 2024
 
-Total Time: 19 hrs
+Total Time: 13 hrs 29 mins
 
-C++                        13 hrs 25 mins  █████████████████▓░░░░░░░   70.65 %
-Bash                       1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Makefile                   1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Text                       1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Docker                     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-YAML                       27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-Other                      25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+C++                        8 hrs 40 mins   ████████████████░░░░░░░░░   64.33 %
+Bash                       1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Text                       1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Makefile                   55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Docker                     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+YAML                       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Other                      22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
 ```
 
 <!--END_SECTION:waka-->
