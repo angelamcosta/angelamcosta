@@ -26,17 +26,16 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2024 - To: 13 March 2024
+From: 08 March 2024 - To: 14 March 2024
 
-Total Time: 10 hrs 38 mins
+Total Time: 5 hrs 39 mins
 
-C++                        6 hrs 53 mins   ████████████████▒░░░░░░░░   64.68 %
-Makefile                   1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Docker                     45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-YAML                       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Git Config                 19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Nginx configuration file   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-C                          15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+C++           5 hrs 11 mins   ███████████████████████░░   91.92 %
+Git Config    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Makefile      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Text          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
