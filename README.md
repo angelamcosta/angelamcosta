@@ -26,7 +26,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 March 2024 - To: 22 March 2024
+From: 17 March 2024 - To: 23 March 2024
 
 Total Time: 0 secs
 
