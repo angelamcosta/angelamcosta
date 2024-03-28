@@ -26,11 +26,12 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2024 - To: 26 March 2024
+From: 21 March 2024 - To: 27 March 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 42 mins
 
-No activity tracked
+C++        1 hr 21 mins    ████████████████████░░░░░   80.03 %
+Markdown   20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.97 %
 ```
 
 <!--END_SECTION:waka-->
