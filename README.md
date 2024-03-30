@@ -26,7 +26,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2024 - To: 28 March 2024
+From: 23 March 2024 - To: 29 March 2024
 
 Total Time: 1 hr 42 mins
 
