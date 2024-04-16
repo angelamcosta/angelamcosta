@@ -26,12 +26,14 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 54 mins
+Total Time: 1 hr 49 mins
 
-C++          54 mins         █████████████████████████   99.50 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+C++          1 hr 42 mins    ███████████████████████▒░   93.43 %
+Makefile     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
