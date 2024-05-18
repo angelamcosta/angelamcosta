@@ -26,17 +26,17 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2024 - To: 16 May 2024
+From: 10 May 2024 - To: 17 May 2024
 
-Total Time: 9 hrs 5 mins
+Total Time: 10 hrs 5 mins
 
-C++          5 hrs 58 mins   ████████████████▒░░░░░░░░   65.79 %
-Python       1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Makefile     52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-Go           31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Perl         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+C++          7 hrs 16 mins   ██████████████████░░░░░░░   72.01 %
+Python       1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
+Makefile     45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Go           31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Perl         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
