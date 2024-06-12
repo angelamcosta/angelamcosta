@@ -5,13 +5,12 @@ I'm Angela Lima, a computer science student at [42 Lisboa](https://www.42lisboa.
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Woman Technologist Medium Skin Tone" width="25" height="25" /> 42 Projects
 
 Here are a few 42 common core projects I've worked on recently: 
-- <a href="https://github.com/angelamcosta/cub3d" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cub3dm.png"> cub3d</a> - My first RayCaster with miniLibX.
 - <a href="https://github.com/angelamcosta/inception" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/inceptionm.png"> Inception</a> - A System Administration related exercise.
+- <a href="https://github.com/angelamcosta/cpp" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cppm.png"> CPP Modules 05-09</a> - This repository contains a collection of C++ exercises aimed at improving my understanding and skills in C++ programming.
 
 And here are the projects I'm currently working on:
-
-- <a href="https://github.com/angelamcosta/cpp" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/cppn.png"> CPP Modules 05-09</a> - This repository contains a collection of C++ exercises aimed at improving my understanding and skills in C++ programming.
 - <a href="https://github.com/angelamcosta/webserv" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/webservn.png"> Webserv</a> - A HTTP server in C++ 98.
+- <a href="https://github.com/angelamcosta/ft_transcendence" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/ft_transcendencen.png"> ft_transcendence</a> - This project is about creating a website for the mighty Pong contest!
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently Learning
 
