@@ -25,17 +25,17 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 15 August 2024
+From: 09 August 2024 - To: 16 August 2024
 
-Total Time: 1 hr 25 mins
+Total Time: 3 hrs 4 mins
 
-Python     1 hr 15 mins    ██████████████████████▒░░   88.80 %
-Text       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-C++        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python     2 hrs 33 mins   ████████████████████▓░░░░   83.19 %
+YAML       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Text       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Docker     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Bash       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
