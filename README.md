@@ -25,13 +25,13 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Total Time: 5 hrs 12 mins
+Total Time: 3 hrs 49 mins
 
-TypeScript   4 hrs 57 mins   ███████████████████████▓░   95.21 %
-Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   3 hrs 34 mins   ███████████████████████▒░   93.48 %
+Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
