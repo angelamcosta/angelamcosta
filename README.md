@@ -25,17 +25,17 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-Total Time: 3 hrs 49 mins
+Total Time: 2 hrs 13 mins
 
-TypeScript   2 hrs 24 mins   ███████████████▓░░░░░░░░░   62.80 %
-JavaScript   32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-Markdown     24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-C++          19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Python       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript   1 hr 18 mins    ██████████████▓░░░░░░░░░░   58.58 %
+C++          19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+JavaScript   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Markdown     15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Python       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
