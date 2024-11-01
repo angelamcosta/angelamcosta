@@ -25,13 +25,11 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamco
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Total Time: 1 hr 41 mins
+Total Time: 0 secs
 
-C++      1 hr 23 mins    ████████████████████▓░░░░   82.06 %
-Python   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
