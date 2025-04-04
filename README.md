@@ -10,7 +10,7 @@ Here are a few 42 common core projects I've worked on recently:
 - <a href="https://github.com/angelamcosta/webserv" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/webservm.png"> Webserv</a> - A HTTP server in C++ 98.
 
 And here are the projects I'm currently working on:
-- <a href="https://github.com/angelamcosta/ft_transcendence" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/ft_transcendencen.png"> ft_transcendence</a> - This project is about creating a website for the mighty Pong contest! It's also the last project of 42 Common Core <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
+- <a href="https://github.com/angelamcosta/ft_transcendence" target="_blank"><img width=32 src="https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/ft_transcendencen.png"> ft_transcendence</a> - A website for the Pong contest, focusing on a user-friendly interface and real-time multiplayer interaction. It's also the final project of 42 Common Core. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently Learning
 
