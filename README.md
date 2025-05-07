@@ -2,6 +2,8 @@
 
 I'm Angela Lima, a computer science student at [42 Lisboa](https://www.42lisboa.com/). Outside of coding, I enjoy gaming, working on personal programming projects, and exploring topics like futurism, astronomy and philosophy.
 
+[![wakatime](https://wakatime.com/badge/user/0c29d5b3-c30b-4e1a-ad07-2da3bd4f7e05.svg)](https://wakatime.com/@0c29d5b3-c30b-4e1a-ad07-2da3bd4f7e05)
+
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Woman Technologist Medium Skin Tone" width="25" height="25" /> 42 Projects
 
 Here are a few 42 common core projects I've worked on recently: 
