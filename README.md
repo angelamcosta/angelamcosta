@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" />
 
-I'm Angela Lima, a computer science student at [42 Lisboa](https://www.42lisboa.com/). Outside of coding, I enjoy gaming, working on personal programming projects, and exploring topics like futurism, astronomy, music theory philosophy.
+I'm Angela Lima, a computer science student at [42 Lisboa](https://www.42lisboa.com/). Outside of coding, I enjoy gaming, working on personal programming projects, and exploring topics like futurism, astronomy, music theory and philosophy.
 
 [![wakatime](https://wakatime.com/badge/user/0c29d5b3-c30b-4e1a-ad07-2da3bd4f7e05.svg)](https://wakatime.com/@0c29d5b3-c30b-4e1a-ad07-2da3bd4f7e05)
 
