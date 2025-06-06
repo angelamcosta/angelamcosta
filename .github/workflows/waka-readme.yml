@@ -1,4 +1,6 @@
-name: "🌸✨ waka readme update ✨🌸"
+# 🌸✨ Kawaii Waka Readme Updater ✨🌸
+
+name: "✨ Waka Readme Update ✨"
 
 on:
   workflow_dispatch:
@@ -7,7 +9,6 @@ on:
 
 jobs:
   update-readme:
-    name: "🎀 update `README` with WakaTime Stats"
     runs-on: ubuntu-latest
 
     steps:
@@ -21,19 +22,22 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
           SHOW_TITLE: "true"
           TIME_RANGE: "last_7_days"
           LANG_COUNT: "5"
-          BLOCKS: "🌱🌿☘️🍀🍃🍂🍁🍃"
+          BLOCKS: "◯◔◑◕◉◕◑◔"
           SECTION_NAME: "waka"
           COMMIT_MESSAGE: "✨🐱‍💻 waka stats refreshed! 🌈"
+
           API_BASE_URL: "https://wakatime.com/api"
           REPOSITORY: "angelamcosta/angelamcosta"
           CODE_LANG: "txt"
+
           SHOW_TIME: "true"
           SHOW_TOTAL: "false"
           SHOW_MASKED_TIME: "false"
           STOP_AT_OTHER: "false"
 
-      - name: "🎉 workflow complete"
-        run: echo "✨🐹 waka readme has been updated successfully! 🐹✨"
+      - name: "🎉 Workflow Complete"
+        run: echo "✨🐹 Waka Readme has been updated successfully! 🐹✨"
