@@ -1,4 +1,4 @@
-name: "🌸✨💼🐰 Waka Readme Update 🐰💼✨🌸"
+name: "🌸✨ waka readme update ✨🌸"
 
 on:
   workflow_dispatch:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-readme:
-    name: "🎀 update `README` with wkatime stats"
+    name: "🎀 update `README` with WakaTime Stats"
     runs-on: ubuntu-latest
 
     steps:
@@ -16,19 +16,24 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: "🐾 fetch && update wakaTime stats"
+      - name: "🐾 Fetch & Update WakaTime Stats"
         uses: athul/waka-readme@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
           SHOW_TITLE: "true"
           TIME_RANGE: "last_7_days"
-          LANG_COUNT: 5
-          BLOCKS: "▁▂▃▄▅▆▇█"
+          LANG_COUNT: "5"
+          BLOCKS: "🌱🌿☘️🍀🍃🍂🍁🍃"
           SECTION_NAME: "waka"
           COMMIT_MESSAGE: "✨🐱‍💻 waka stats refreshed! 🌈"
-
+          API_BASE_URL: "https://wakatime.com/api"
+          REPOSITORY: "angelamcosta/angelamcosta"
+          CODE_LANG: "txt"
+          SHOW_TIME: "true"
+          SHOW_TOTAL: "false"
+          SHOW_MASKED_TIME: "false"
+          STOP_AT_OTHER: "false"
 
       - name: "🎉 workflow complete"
-        run: echo "waka readme has been updated successfully! 🐹✨"
+        run: echo "✨🐹 waka readme has been updated successfully! 🐹✨"
