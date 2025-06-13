@@ -21,17 +21,17 @@ And here are the projects I'm currently working on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-Total Time: 29 hrs 22 mins
+Total Time: 32 hrs 50 mins
 
-TypeScript         19 hrs 16 mins  ◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◕◯◯◯◯◯◯◯◯   65.61 %
-SCSS               6 hrs 24 mins   ◔◔◔◔◔◕◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   21.79 %
-JavaScript         2 hrs 55 mins   ◔◔◕◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   09.93 %
-JSON               26 mins         ◕◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   01.51 %
-Bash               8 mins          ◔◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.47 %
-Docker             4 mins          ◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.28 %
-HTML               3 mins          ◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.21 %
+TypeScript         24 hrs 35 mins  ◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◕◯◯◯◯◯◯   74.85 %
+SCSS               3 hrs 53 mins   ◔◔◔◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   11.82 %
+JavaScript         3 hrs 39 mins   ◔◔◕◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   11.11 %
+SQL                15 mins         ◔◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.80 %
+Bash               8 mins          ◔◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.42 %
+Docker             7 mins          ◔◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.37 %
+JSON               5 mins          ◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.26 %
 ```
 
 <!--END_SECTION:waka-->
