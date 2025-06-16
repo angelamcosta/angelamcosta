@@ -16,7 +16,7 @@ And here are the projects I'm currently working on:
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=c,docker,cpp,python,nodejs,bash,react,ts,next&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,docker,go,react,ts,cpp,python,nodejs,bash,next&theme=dark)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 
