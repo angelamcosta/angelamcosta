@@ -21,15 +21,15 @@ And here are the projects I'm currently working on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-Total Time: 38 hrs 35 mins
+Total Time: 38 hrs 22 mins
 
-TypeScript   36 hrs 7 mins   ◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◕◯   93.63 %
-SCSS         1 hr 16 mins    ◑◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   03.30 %
-JavaScript   49 mins         ◉◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   02.16 %
+TypeScript   35 hrs 11 mins  ◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◔◯◯   91.73 %
+SCSS         1 hr 58 mins    ◔◑◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   05.13 %
+JavaScript   47 mins         ◉◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   02.05 %
 SQL          15 mins         ◔◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.68 %
-JSON         2 mins          ◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.12 %
+JSON         6 mins          ◔◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.30 %
 Docker       2 mins          ◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.10 %
 YAML         0 secs          ◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯   00.01 %
 ```
