@@ -1,28 +1,27 @@
-name: Métricas Dev Estelares
+name: かわいい DevMetrics
 
-# Dispara manualmente ou todo dia à meia-noite UTC  
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 23 * * *'
 
 jobs:
   update-readme:
-    name: Mapear Constelações de Código
+    name: ASCII Kawaii Bloom
     runs-on: ubuntu-latest
 
     steps:
-      - name: Extrair Métricas com WakaReadme
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Extrair Métricas ASCII Kawaii
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
           SHOW_TITLE: true
-          TITLE_PREFIX: "🌌 Astral DevMetrics"
-          
-          BLOCKS: "🌑🌒🌓🌔🌕🌔🌓🌒"
-          
+          TITLE_PREFIX: "(=^_^=) Kawaii ASCII Metrics (=^_^=)"
+          # Seqüência puramente ASCII: ponto, gatinho <:3>, ponto
+          BLOCKS: ".<:3>:."
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
-          
           LANG_COUNT: 7
