@@ -1,20 +1,28 @@
-name: Waka Readme
+name: Métricas Dev Estelares
 
+# Dispara manualmente ou todo dia à meia-noite UTC  
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Mapear Constelações de Código
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Extrair Métricas com WakaReadme
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
           SHOW_TITLE: true
-          BLOCKS: "◯◔◑◕◉◕◑◔"
+          TITLE_PREFIX: "🌌 Astral DevMetrics"
+          
+          BLOCKS: "🌑🌒🌓🌔🌕🌔🌓🌒"
+          
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          
           LANG_COUNT: 7
