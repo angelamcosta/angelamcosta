@@ -3,25 +3,25 @@ name: かわいい DevMetrics
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
-    name: ASCII Kawaii Bloom
+    name: Mapear Constelações de Código
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
-
-      - name: Extrair Métricas ASCII Kawaii
+      - name: Extrair Métricas com WakaReadme
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          
           SHOW_TITLE: true
-          TITLE_PREFIX: "(=^_^=) Kawaii ASCII Metrics (=^_^=)"
-          # Seqüência puramente ASCII: ponto, gatinho <:3>, ponto
-          BLOCKS: ".<:3>:."
+          TITLE_PREFIX: "🌌 Astral DevMetrics"
+          
+          BLOCKS: "🌑🌒🌓🌔🌕🌔🌓🌒"
+          
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          
           LANG_COUNT: 7
