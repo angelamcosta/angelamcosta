@@ -26,20 +26,6 @@ XML          12 mins         🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑�
 
 <!--END_SECTION:waka-->
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="25" height="25" /> Books
-
-##### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="20" height="20" /> Recently Finished
-- **A Sociedade do Cansaço**  
-  Byung-Chul Han • `Aug 2025`
-- **Cair da Noite**  
-  Isaac Asimov • `Apr 2025`
-
-##### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" /> Current Reads
-- **Gyo**  
-  Junji Ito • `400 pages`
-- **The Left Hand of Darkness**  
-  Ursula K. Le Guin • `335 pages`
-
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelamcostalima/) or contact me via [email](mailto:angelamcostalima@icloud.com).
