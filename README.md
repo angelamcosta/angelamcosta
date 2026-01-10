@@ -6,7 +6,7 @@ I'm Angela Lima, a Fullstack Developer @ [Gaspard+Bruno](https://gaspardbruno.co
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Seedling" width="25" height="25" /> My stack
 
-[![My Skills](https://skillicons.dev/icons?i=c,docker,yarn,go,ts,cpp,react,tailwind,python,nodejs,bash,next,vercel,figma,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,docker,yarn,go,godot,ts,cpp,react,tailwind,python,nodejs,bash,next,vercel&theme=dark)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 
