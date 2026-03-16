@@ -11,7 +11,7 @@ I'm Angela Lima, a Fullstack Developer @ [Gaspard+Bruno](https://gaspardbruno.co
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2026 - To: 13 March 2026
+From: 08 March 2026 - To: 14 March 2026
 
 Total Time: 11 hrs 6 mins
 
