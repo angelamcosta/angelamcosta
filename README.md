@@ -11,17 +11,17 @@ I'm Angela Lima, a Fullstack Developer @ [Gaspard+Bruno](https://gaspardbruno.co
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Total Time: 23 hrs 48 mins
+Total Time: 24 hrs 23 mins
 
-TypeScript   8 hrs 57 mins         🌒🌒🌒🌒🌒🌒🌒🌒🌒🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   37.62 %
-JavaScript   7 hrs 35 mins         🌒🌒🌒🌒🌒🌒🌒🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   31.89 %
-Markdown     4 hrs 15 mins         🌒🌒🌒🌒🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   17.86 %
-Other        1 hr 24 mins          🌒🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   05.91 %
-JSON         52 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   03.69 %
-Text         25 mins               🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.75 %
-Bash         15 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.05 %
+JavaScript   8 hrs 50 mins         🌒🌒🌒🌒🌒🌒🌒🌒🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   36.27 %
+TypeScript   6 hrs 24 mins         🌒🌒🌒🌒🌒🌒🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   26.29 %
+Markdown     5 hrs 18 mins         🌒🌒🌒🌒🌒🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   21.76 %
+JSON         1 hr 33 mins          🌒🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   06.37 %
+Other        1 hr 18 mins          🌒🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   05.34 %
+Git Config   24 mins               🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.68 %
+Bash         15 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.06 %
 ```
 
 <!--END_SECTION:waka-->
