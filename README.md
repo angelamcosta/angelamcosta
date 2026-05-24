@@ -11,17 +11,17 @@ I'm [Angela Lima](https://www.angelalima.dev/), a Software Engineer @ [Gaspard+B
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2026 - To: 21 May 2026
+From: 15 May 2026 - To: 22 May 2026
 
-Total Time: 26 hrs 38 mins
+Total Time: 26 hrs 44 mins
 
-TypeScript   18 hrs 10 mins        🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌑🌑🌑🌑🌑🌑🌑🌑   68.20 %
-Markdown     4 hrs 35 mins         🌒🌒🌒🌒🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   17.21 %
-JSON         1 hr 19 mins          🌒🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   04.98 %
+TypeScript   19 hrs 50 mins        🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌕🌑🌑🌑🌑🌑🌑   74.24 %
+Markdown     3 hrs 35 mins         🌒🌒🌒🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   13.42 %
+JSON         46 mins               🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   02.90 %
+JavaScript   39 mins               🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   02.44 %
 XML          35 mins               🌕🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   02.20 %
-Other        22 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.39 %
-Bash         21 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.35 %
-TSConfig     19 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.24 %
+TSConfig     18 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.13 %
+Bash         15 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   00.99 %
 ```
 
 <!--END_SECTION:waka-->
