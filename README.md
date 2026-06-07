@@ -11,17 +11,17 @@ I'm [Angela Lima](https://www.angelalima.dev/), a brazilian Software Engineer li
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2026 - To: 05 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Total Time: 42 hrs 22 mins
+Total Time: 37 hrs 48 mins
 
-TypeScript    19 hrs 17 mins        🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   45.51 %
-Markdown      13 hrs                🌒🌒🌒🌒🌒🌒🌒🌔🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   30.70 %
-CSS           3 hrs 42 mins         🌒🌒🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   08.74 %
-JSON          1 hr 59 mins          🌒🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   04.69 %
-Git Config    1 hr 35 mins          🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   03.75 %
-JavaScript    1 hr 35 mins          🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   03.74 %
-YAML          31 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.24 %
+TypeScript   16 hrs 19 mins        🌒🌒🌒🌒🌒🌒🌒🌒🌒🌒🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   43.17 %
+Markdown     12 hrs 27 mins        🌒🌒🌒🌒🌒🌒🌒🌒🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   32.97 %
+CSS          3 hrs 5 mins          🌒🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   08.20 %
+JSON         1 hr 47 mins          🌒🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   04.75 %
+Git Config   1 hr 29 mins          🌒🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   03.93 %
+JavaScript   1 hr 17 mins          🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   03.41 %
+YAML         31 mins               🌓🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑🌑   01.39 %
 ```
 
 <!--END_SECTION:waka-->
