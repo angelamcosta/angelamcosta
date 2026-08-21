@@ -6,7 +6,7 @@ I'm [Angela Lima](https://www.angelalima.dev/), a brazilian Software Engineer li
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Medium%20Skin%20Tone.png" alt="Seedling" width="25" height="25" /> My stack
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,git,nodejs,mongodb,tailwind,go,react,docker,ts,c,cpp,nextjs,vercel,bash,godot&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,python,nodejs,mongodb,tailwind,go,react,docker,ts,c,cpp,nextjs,vercel,bash,godot&theme=dark)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 
